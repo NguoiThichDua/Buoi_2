@@ -1,17 +1,19 @@
 ﻿<Properties StartupConfiguration="{95E6B123-C780-4A8B-9539-DACE4B60D500}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Bai_4/DisplayCD.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bai_4/Point.cs">
     <Files>
-      <File FileName="Bai_4/Program.cs" Line="45" Column="56" />
+      <File FileName="Bai_4/Program.cs" Line="7" Column="6" />
       <File FileName="Bai_4/AddCD.cs" Line="15" Column="46" />
       <File FileName="Bai_4/SearchCD.cs" Line="13" Column="18" />
-      <File FileName="Bai_4/DisplayCD.cs" Line="14" Column="70" />
+      <File FileName="Bai_4/DisplayCD.cs" Line="10" Column="38" />
+      <File FileName="Bai_4/Shape.cs" Line="7" Column="9" />
+      <File FileName="Bai_4/Point.cs" Line="12" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Bai_4" expanded="True">
             <Node name="Bai_4" expanded="True">
-              <Node name="DisplayCD.cs" selected="True" />
+              <Node name="Point.cs" selected="True" />
             </Node>
           </Node>
         </State>
