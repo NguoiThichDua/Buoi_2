@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D558825D-F17A-4998-B452-A6448F3BB3C9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Bai__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bai_1/Program.cs">
+    <Files>
+      <File FileName="Bai_1/Program.cs" Line="22" Column="6" />
+      <File FileName="Bai_1/Lop_PTB2.cs" Line="29" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bai_1" expanded="True">
+            <Node name="Bai_1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

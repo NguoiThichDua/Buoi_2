@@ -1,0 +1,5 @@
+/home/nguoithichdua/Documents/CSharp/Buoi_2/Bai_4/Bai_4/Bai_4/bin/Debug/Bai_4.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_2/Bai_4/Bai_4/Bai_4/bin/Debug/Bai_4.pdb
+/home/nguoithichdua/Documents/CSharp/Buoi_2/Bai_4/Bai_4/Bai_4/obj/x86/Debug/Bai_4.csprojAssemblyReference.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_2/Bai_4/Bai_4/Bai_4/obj/x86/Debug/Bai_4.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_2/Bai_4/Bai_4/Bai_4/obj/x86/Debug/Bai_4.pdb

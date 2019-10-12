@@ -1,0 +1,5 @@
+/home/nguoithichdua/Documents/CSharp/Buoi_2/Bai_1/Bai_1/Bai_1/obj/x86/Debug/Bai_1.csprojAssemblyReference.cache
+/home/nguoithichdua/Documents/CSharp/Buoi_2/Bai_1/Bai_1/Bai_1/bin/Debug/Bai_1.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_2/Bai_1/Bai_1/Bai_1/bin/Debug/Bai_1.pdb
+/home/nguoithichdua/Documents/CSharp/Buoi_2/Bai_1/Bai_1/Bai_1/obj/x86/Debug/Bai_1.exe
+/home/nguoithichdua/Documents/CSharp/Buoi_2/Bai_1/Bai_1/Bai_1/obj/x86/Debug/Bai_1.pdb

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{5B8E746C-0E05-4309-A724-3BDC3275F06B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bai_3/SinhVien.cs">
+    <Files>
+      <File FileName="Bai_3/SinhVien.cs" Line="49" Column="10" />
+      <File FileName="Bai_3/Program.cs" Line="48" Column="14" />
+      <File FileName="Bai_3/SortSinhVien.cs" Line="7" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bai_3" expanded="True">
+            <Node name="Bai_3" expanded="True">
+              <Node name="SinhVien.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Bai__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{95E6B123-C780-4A8B-9539-DACE4B60D500}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bai_4/DisplayCD.cs">
+    <Files>
+      <File FileName="Bai_4/Program.cs" Line="45" Column="56" />
+      <File FileName="Bai_4/AddCD.cs" Line="15" Column="46" />
+      <File FileName="Bai_4/SearchCD.cs" Line="13" Column="18" />
+      <File FileName="Bai_4/DisplayCD.cs" Line="14" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bai_4" expanded="True">
+            <Node name="Bai_4" expanded="True">
+              <Node name="DisplayCD.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Bai__4 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
